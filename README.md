@@ -6,7 +6,7 @@ I'm Luke, a Toronto-based Web Developer. Thanks for stopping by!
 
 👨🏻‍💻 [Portfolio Site](https://lukemackenzie.dev/)
 
-👀 [Overview of my Repos](https://my-gh-repos.vercel.app/)
+👀 [Repo Overview](https://my-gh-repos.vercel.app/)
 
 👨🏻‍💼 [LinkedIn](https://www.linkedin.com/in/mackenzieluke/)
 
