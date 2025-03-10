@@ -4,9 +4,11 @@ I'm Luke, a Toronto-based Web Developer. Thanks for stopping by!
 
 #### Useful Links
 
-- 👨🏻‍💻 [Portfolio Site](https://lukemackenzie.dev/)
+👨🏻‍💻 [Portfolio Site](https://lukemackenzie.dev/)
 
-- 👨🏻‍💼 [LinkedIn](https://www.linkedin.com/in/mackenzieluke/)
+👀 [Overview of my Repos](https://my-gh-repos.vercel.app/)
+
+👨🏻‍💼 [LinkedIn](https://www.linkedin.com/in/mackenzieluke/)
 
 #### Certifications
 
